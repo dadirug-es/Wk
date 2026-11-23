@@ -28,10 +28,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: ls
-        uses: gacts/directory-listing@v1
-        with:
-          target: .
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
