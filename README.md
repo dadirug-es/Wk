@@ -2,7 +2,8 @@
 
 * [kb/](kb)
   * [platforms/](kb/platforms)
-      * [request_tracker](kb/platforms/request_tracker)
+      * [request_tracker/](kb/platforms/request_tracker)
+        *   [soporte](kb/platforms/request_tracker/soporte)
   * [network/](kb/network)
   * [operative-systems/](kb/operative-systems)
     * [linux/](kb/operative-systems/linux)
