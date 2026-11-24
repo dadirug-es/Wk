@@ -3,7 +3,7 @@
 * [kb/](kb)
   * [platforms/](kb/platforms)
       * [request_tracker/](kb/platforms/request_tracker)
-        *   [soporte](kb/platforms/request_tracker/soporte)
+        * <a href="kb/platforms/request_tracker/soporte" style="font-weight: bold; color: #ccff00; text-decoration: none;">soporte</a>
   * [network/](kb/network)
   * [operative-systems/](kb/operative-systems)
     * [linux/](kb/operative-systems/linux)
