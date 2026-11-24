@@ -3,7 +3,7 @@
 * [kb/](kb)
   * [platforms/](kb/platforms)
       * [request_tracker/](kb/platforms/request_tracker)
-        * <a href="kb/platforms/request_tracker/soporte" style="font-weight: bold; color: #ccff00; text-decoration: none;">soporte</a>
+        * <a href="kb/platforms/request_tracker/soporte" style="font-weight: bold; color: #cc5200; text-decoration: none;">soporte</a>
   * [network/](kb/network)
   * [operative-systems/](kb/operative-systems)
     * [linux/](kb/operative-systems/linux)
@@ -115,7 +115,7 @@
     * [vm/](xxc/xoc/vm)
       * [procedures/](xxc/xoc/vm/procedures)
   * [sto/](xxc/sto)
-    * [sec_projs_briefing-en.html](sec_projs_briefing-en.html)
+    * <a href="sec_projs_briefing-en.html" style="font-weight: bold; color: #cc5200; text-decoration: none;">sec_projs_briefing-en.html</a>
     * [procedures/](xxc/sto/procedures)
     * [projects/](xxc/sto/projects)
     * [tasks/](xxc/sto/tasks)
